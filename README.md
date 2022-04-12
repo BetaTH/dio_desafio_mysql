@@ -8,7 +8,7 @@ Não tive problemas com a criação e conexão com o banco de dados pois ja tenh
 
 ![Pesquisas feitas para ponseguir rodar a aplicação](pesquisas.jpg)
 
-Fiz a instalação dos modulos e pacotes do NodeJS e React no Ubuntu 20-04 via WSL. Utilizei o VS code no Windows e inciei o terminal do Ubuntu pelo proprio windows e fiz a instalação dos pacotes e modulos e iniciei a aplicação pelo proprio WSL. O servidor MySQl também foi instalo no Ubuntu 20-04 vi WSL do Windows, sendo possivél acessar por qualquer aplicação Windows uma vez que o WSL compartilha o mesmo localhost. Segue as imagens:
+Fiz a instalação dos modulos e pacotes do NodeJS e React no Ubuntu 20-04 via WSL. Utilizei o VS code no Windows e inciei o terminal do Ubuntu pelo proprio Windows e fiz a instalação dos pacotes e modulos e iniciei a aplicação pelo proprio WSL. O servidor MySQl também foi instalado no Ubuntu 20-04 via WSL do Windows, sendo possível acessar por qualquer aplicação Windows uma vez que o WSL compartilha o mesmo localhost. Segue as imagens:
 
 ![Aplicativo via WSL](AplicativoWSL.jpg)
 
